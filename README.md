@@ -1,6 +1,6 @@
 
 
-### 👋 Hello! I'm Antonio-Marian Gorgan!
+### 👋 Hello! I'm Antonio-Marian Gorgan
 
 🚀 Aspiring Softare Developer and Backend Web Developer 
 
