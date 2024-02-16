@@ -2,7 +2,7 @@
 
 ### 👋 Hello! I'm Antonio-Marian Gorgan
 
-🚀 Aspiring Softare Developer and Backend Web Developer 
+🚀 Aspiring Software Developer and Backend Web Developer 
 
 🌱 I'm passionate about building robust software solutions that make a positive impact. Constantly exploring new technologies and striving for excellence in everything I do.
 
